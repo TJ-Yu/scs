@@ -118,8 +118,7 @@ Scale: 1 = Not familiar, 5 = Very familiar
 
 ---
 
-## 13. Travel time uncertainty when going to Hangzhou West Station  
-*(Single choice)*
+## 13. Travel time uncertainty when going to Hangzhou West Station *(Single choice)*  
 
 Scale: 1 = Very stable, 5 = Very unstable
 
